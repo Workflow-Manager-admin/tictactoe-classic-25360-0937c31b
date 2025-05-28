@@ -5,3 +5,7 @@
 [33mThe CJS build of Vite's Node API is deprecated. See https://vite.dev/guide/troubleshooting.html#vite-cjs-node-api-deprecated for more details.[39m
   ➜  Local:   http://localhost:3000/
   ➜  Network: http://172.17.0.2:3000/
+5:11:37 PM [vite] (client) hmr update /app/routes/_index.tsx, /app/tailwind.css
+5:11:37 PM [vite] (client) hmr update /app/routes/_index.tsx, /app/tailwind.css
+5:11:37 PM [vite] (client) hmr update /app/routes/_index.tsx, /app/tailwind.css
+5:11:37 PM [vite] (ssr) page reload app/routes/_index.tsx
